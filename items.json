@@ -75,6 +75,29 @@
 
     },
     {
+        "id": 60950,
+        "name_en": "Igean fury ring",
+        "name_de": "Igean fury ring",
+        "name_es": "Igean fury ring",
+        "class": "normal",
+        "icon_url": "51443.png",
+        "quantity":"100",
+        "uses":"100",
+        "weight":"0.05",
+        "sellprice_gold":"0",
+        "sellprice_ximerin":"0",
+        "damage_fire":"34",
+        "description_en":"This ring channels all the contained rage of years of war and vengeance.",
+        "required_level":"50",
+        "bonus1":"+34",
+        "bonus1_type_en":"Fire Damage",
+        "bonus2":"+6",
+        "bonus2_type_en":"Strength",
+        "category":"Rings",
+        "itemlevel":"50"
+
+    },
+    {
         "id": 77758,
         "name_en": "Ancient Bow",
         "name_de": "Francis' massiver Schwängel",
