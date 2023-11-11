@@ -81,8 +81,6 @@
         "name_es": "Igean fury ring",
         "class": "normal",
         "icon_url": "60950.png",
-        "quantity":"100",
-        "uses":"100",
         "weight":"0.05",
         "sellprice_gold":"0",
         "sellprice_ximerin":"0",
